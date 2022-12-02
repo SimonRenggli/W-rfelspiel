@@ -1,0 +1,15 @@
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\bin\Debug\net7.0\Würfelspiel.exe
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\bin\Debug\net7.0\Würfelspiel.deps.json
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\bin\Debug\net7.0\Würfelspiel.runtimeconfig.json
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\bin\Debug\net7.0\Würfelspiel.dll
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\bin\Debug\net7.0\Würfelspiel.pdb
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\Würfelspiel.csproj.AssemblyReference.cache
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\Würfelspiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\Würfelspiel.AssemblyInfoInputs.cache
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\Würfelspiel.AssemblyInfo.cs
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\Würfelspiel.csproj.CoreCompileInputs.cache
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\Würfelspiel.dll
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\refint\Würfelspiel.dll
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\Würfelspiel.pdb
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\Würfelspiel.genruntimeconfig.cache
+C:\Users\Simon.Renggli\OneDrive - dataunit.ch\Dokumente\Code\C#\Test\Würfelspiel\obj\Debug\net7.0\ref\Würfelspiel.dll
